@@ -1,8 +1,8 @@
 
-Docker Practice Projects
+# Docker Practice Projects
 This document contains hands-on Docker projects designed to help you practice containerization concepts. The projects involve packaging Python applications into Docker images, managing multi-container applications with Docker Compose, and deploying applications with dependencies like PostgreSQL. Each project includes step-by-step instructions and deliverables to reinforce practical learning. 🚀
 
-Docker Practice Project 1: Containerizing a Streamlit Application
+# Docker Practice Project 1: Containerizing a Streamlit Application
 Project Overview
 You have developed a Streamlit application with the following functionalities:
 
@@ -31,7 +31,7 @@ Deliverables To complete the task, submit the following:
 
 Your Dockerfile. A link to your Docker Hub repository containing the published image. Happy Dockerizing! 🚀
 
-Docker Practice Project 2: Creating a Multi-container Application
+# Docker Practice Project 2: Creating a Multi-container Application
 Project Overview
 You have developed a Streamlit application with the following functionalities:
 
