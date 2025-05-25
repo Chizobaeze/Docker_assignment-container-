@@ -1,3 +1,6 @@
+https://hub.docker.com/repository/docker/chizobaeze/chizoba/general
+
+
 
 # Docker Practice Projects
 This document contains hands-on Docker projects designed to help you practice containerization concepts. The projects involve packaging Python applications into Docker images, managing multi-container applications with Docker Compose, and deploying applications with dependencies like PostgreSQL. Each project includes step-by-step instructions and deliverables to reinforce practical learning. 🚀
